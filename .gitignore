@@ -1,0 +1,9 @@
+# .gitignore
+.venv/
+.embeddings
+.local_knowledge_docs
+.metadata
+# IDE specific files
+.idea/
+*.iml
+**/__pycache__/
